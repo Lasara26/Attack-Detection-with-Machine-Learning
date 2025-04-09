@@ -13,13 +13,13 @@ Este proyecto incluye un menú interactivo, visualización de la matriz de confu
 
 ## 📁 Estructura del proyecto
 
-├── main.py                 # Script principal con menú interactivo
-├── model.pkl               # Modelo RandomForest entrenado (se genera automáticamente)
-├── report.json             # Reporte de métricas en JSON
-├── data/                   # Carpeta para datasets locales (agregada al .gitignore)
-│   └── tu_dataset.csv
-├── requirements.txt        # Dependencias del proyecto
-└── README.md               # Este archivo
+- ├── main.py                 # Script principal con menú interactivo
+- ├── model.pkl               # Modelo RandomForest entrenado (se genera automáticamente)
+- ├── report.json             # Reporte de métricas en JSON
+- ├── data/                   # Carpeta para datasets locales (agregada al .gitignore)
+- │   └── tu_dataset.csv
+- ├── requirements.txt        # Dependencias del proyecto
+- └── README.md               # Este archivo
 
 
 ## 🧩 Requisitos
