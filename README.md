@@ -31,8 +31,8 @@ Este proyecto incluye un menú interactivo, visualización de la matriz de confu
 ## ⚙️ Uso
 
 1. Clonar el repositorio:
-  git clone https://github.com/FrancoGarciaC9701/Attack-Detection-with-Machine-Learning.git
-  cd Attack-Detection-with-Machine-Learning
+ - git clone https://github.com/FrancoGarciaC9701/Attack-Detection-with-Machine-Learning.git
+ - cd Attack-Detection-with-Machine-Learning
   
 2. Ejecutar el proyecto:
   python main.py
