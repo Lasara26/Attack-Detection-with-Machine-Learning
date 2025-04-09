@@ -37,7 +37,10 @@ Este proyecto incluye un menú interactivo, visualización de la matriz de confu
 2. Ejecutar el proyecto:
   python main.py
 
-3. Seguí las instrucciones del menú para entrenar el modelo, cargar datasets y generar reportes.
+3. Descarga el archivo de "http://cicresearch.ca/CICDataset/CIC-IDS-2017/Dataset/CIC-IDS-2017/CSVs/" el que dice "MachineLearningCSV.zip", lo descomprimís y tenés los datos para ensayar
+   Podés generar un archivo conjunto o escanearlo de a uno (No subí los archivos porque pesaban más de lo permitido)
+
+4. Seguí las instrucciones del menú para entrenar el modelo, cargar datasets y generar reportes.
 
 ## 📊 Resultados
 El proyecto genera un report.json con las métricas de precisión, recall, f1-score y soporte.
